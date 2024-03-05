@@ -12,3 +12,14 @@
 .line {
   border: 1px solid #f4f4f4;
 }
+
+.deleteButton {
+  float: right;
+  padding: 12px 20px;
+  background-color: #f7ca18;
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+  color: #ffff;
+  margin-top: -5px;
+}
